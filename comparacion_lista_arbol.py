@@ -107,7 +107,7 @@ print("GPA desde árbol:", arbol.buscar(id_prueba))
 # ==============================
 # 8. Medición de tiempos
 # ==============================
-repeticiones = 1
+repeticiones = 10000
 tiempo_lista = 0
 tiempo_arbol = 0
 
