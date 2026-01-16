@@ -32,7 +32,7 @@ def cargar_dataset_en_listas():
     return X_list, y_list
 
 # Escenarios: número de ejecuciones
-escenarios = [50, 100, 200]
+escenarios = [20, 50, 75, 100, 150]
 
 for N in escenarios:
     tiempos_ejecuciones = []

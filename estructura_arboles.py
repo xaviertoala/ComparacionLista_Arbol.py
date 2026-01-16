@@ -78,7 +78,7 @@ def cargar_dataset_en_arbol(ruta_csv):
 # -----------------------------
 # Escenarios de ejecuciones
 # -----------------------------
-escenarios = [50, 100, 200]  # número de ejecuciones
+escenarios = [20, 50, 75, 100, 150]  # número de ejecuciones
 ruta_csv = 'dataStudents.csv'
 
 for N in escenarios:
